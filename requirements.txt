@@ -4,3 +4,4 @@ pandas==1.2.4
 statsmodels==0.12.2
 openpyxl==3.0.7
 plotly==5.1.0
+pycountry==20.7.3
