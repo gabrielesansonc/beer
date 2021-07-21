@@ -13,7 +13,6 @@ import statsmodels.api as sm # for the regression and prediction
 import altair as alt #for the plots and charts
 import plotly.express as px #for the map
 import pycountry #for the 3 letter country code needed in the map
-from vega_datasets import data #image of map terrain
 
 
 #Upload the title image
